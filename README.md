@@ -1,5 +1,5 @@
 # SIADS697-JNH
-This is the github repository for Julia Wu, Nick Martin, and Hyungmook Oh for their SIADS Capstone Project
+This is the github repository for Julia Wu, Nicholas Martin, and Hyungmook Oh for their SIADS Capstone Project
 
 The notebooks created within this project illustrates the process that lead to our Airbnb results. Two major areas, Hawaii and San Diego, are chosen due to their tourist heavy locations. There are two folders that have mirroring code to represent huge similarity in the results that lead to our definition of "success." This readme is to guide the reader through our notebooks, and navigate to files that are most significant to our analysis.
 
